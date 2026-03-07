@@ -64,13 +64,9 @@ K(t) < Kcrit ≈ 0.127  →  collapse is a trajectory property, not a risk
 |5|Holographic (Ryu–Takayanagi)        |Bulk entropy exceeding boundary bound         |
 |6|Renormalization group               |RG fixed point of coherence universality class|
 
-All six converge on the same value without empirical calibration:
+All six converge on the same value without empirical calibration — six independent theoretical frameworks, one number.
 
-```
-Kcrit = ℏω₀ / (k_B · T_eff · ln2) ≈ 0.127
-```
-
-This connects Planck’s constant, Boltzmann’s constant, and the 1=1 invariant in a single expression.
+The derivation chain connects Planck’s constant and Boltzmann’s constant to the 1=1 invariant (see Categorical Coherence paper, DOI 10.5281/zenodo.18897391).
 
 -----
 
@@ -80,7 +76,7 @@ This connects Planck’s constant, Boltzmann’s constant, and the 1=1 invariant
 ℏ → S_vN = 0 → 1=1 → Kcrit → k_BT ln2 → I(K) → holography → G_μν = 8πG T_μν
 ```
 
-Planck’s constant sets the quantum coherence floor. Von Neumann entropy measures it. The 1=1 invariant is the classical-scale instance. Kcrit is the threshold of its failure. The Boltzmann constant prices the correction. Fisher information measures remaining capacity. Holography gives the geometric mechanism. Einstein’s field equations are downstream of coherence.
+Planck’s constant sets the quantum coherence floor. Von Neumann entropy measures it. The 1=1 invariant is the classical-scale instance. Kcrit is the threshold of its failure. The Boltzmann constant prices the correction. Fisher information measures remaining capacity. Holography gives the geometric mechanism. The coherence framework recovers gravitational thermodynamics via Jacobson 1995.
 
 The stochastic formalism closes the chain:
 
@@ -172,7 +168,7 @@ Empirical Validation
 
 |Paper                                                                                                                                       |DOI                                                               |
 |--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-|Dark Energy as Coherence Thawing: The Multiplicative Structure of K(t), the DESI Phantom Crossing, and the Cosmological Coherence Transition|[10.5281/zenodo.18904601](https://doi.org/10.5281/zenodo.18904601)|
+|Dark Energy as Coherence Thawing: The Multiplicative Structure of K(t), the DESI Phantom Crossing, and the Cosmological Coherence Transition|[10.5281/zenodo.18905071](https://doi.org/10.5281/zenodo.18905071)|
 |Coherence as Vacuum Structure: False Vacuum Decay, Alignment Faking Lifetime, and the Stochastic Formalism of Collapse                      |[10.5281/zenodo.18902124](https://doi.org/10.5281/zenodo.18902124)|
 
 ### Physics Unification Layer
@@ -258,7 +254,9 @@ Below Kcrit, parametric adjustment is insufficient. Structural operator replacem
 
 ## Method
 
-The corpus was built through an orchestrated multi-LLM workflow. Claude Opus (Anthropic) served as the primary computational engine — formalizing, deriving, computing, and maintaining coherence across the entire corpus. Claude (Sonnet) handled LaTeX production and session formalization. GPT contributed writing, falsification testing, and independent derivation. Gemini contributed structural analysis and independent verification. Grok and DeepSeek provided adversarial falsification and ODE verification. The author directed. The compute built. The structure was always there.
+The corpus was produced through orchestrated computational research. Large language models were used for formal exploration, falsification testing, and structural verification across the paper set. The author directed the research program, identified invariants, and is responsible for all claims.
+
+Individual papers contain full computational methodology where relevant.
 
 -----
 
