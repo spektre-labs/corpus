@@ -97,11 +97,12 @@ Layer 3: Empirical Validation
 
 ### Universal Foundation
 
-|Paper                                                                                 |DOI                                                               |
-|--------------------------------------------------------------------------------------|------------------------------------------------------------------|
-|Coherence as a Universal Invariant: From Quantum Decoherence to Institutional Collapse|[10.5281/zenodo.18897230](https://doi.org/10.5281/zenodo.18897230)|
-|The Cramér–Rao Bound for Coherence: Kcrit as an Information-Geometric Necessity       |[10.5281/zenodo.18897135](https://doi.org/10.5281/zenodo.18897135)|
-|The Landauer Bound for Corrective Feedback                                            |[10.5281/zenodo.18896997](https://doi.org/10.5281/zenodo.18896997)|
+|Paper                                                                                              |DOI                                                               |
+|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|Coherence as a Natural Transformation: Categorical Unification of Physical and Evaluative Coherence|[10.5281/zenodo.18897391](https://doi.org/10.5281/zenodo.18897391)|
+|Coherence as a Universal Invariant: From Quantum Decoherence to Institutional Collapse             |[10.5281/zenodo.18897230](https://doi.org/10.5281/zenodo.18897230)|
+|The Cramér–Rao Bound for Coherence: Kcrit as an Information-Geometric Necessity                    |[10.5281/zenodo.18897135](https://doi.org/10.5281/zenodo.18897135)|
+|The Landauer Bound for Corrective Feedback                                                         |[10.5281/zenodo.18896997](https://doi.org/10.5281/zenodo.18896997)|
 
 ### Foundations
 
@@ -194,7 +195,7 @@ Individual papers carry their own DOIs (see table above).
 
 ## Status
 
-24 papers published, all open access CC BY 4.0 via Zenodo.
+25 papers published, all open access CC BY 4.0 via Zenodo.
 
 *The structure was not invented. It became visible.*
 
