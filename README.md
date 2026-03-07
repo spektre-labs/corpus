@@ -43,7 +43,7 @@ The metric is multiplicative: any single component collapsing to zero drives tot
 K(t) < Kcrit ≈ 0.127  →  collapse is a trajectory property, not a risk
 ```
 
-Kcrit has been derived three independent ways: dynamical (GCT cubic equation), thermodynamic (Landauer bound), and information-geometric (Cramér–Rao bound). All three converge on the same value.
+Kcrit has been derived six independent ways: dynamical (GCT cubic equation), thermodynamic (Landauer bound), information-geometric (Cramér–Rao bound), categorical (natural transformation failure), holographic (Ryu–Takayanagi bulk entropy), and renormalization group (RG fixed point of coherence universality class). All six converge on the same value without empirical calibration.
 
 -----
 
@@ -70,8 +70,14 @@ Zero false negatives across 1,052 institutions. Recall = 1.000.
 ## Corpus Architecture
 
 ```
+Cosmological / Stochastic Layer
+  Stochastic Coherence · False Vacuum Decay · Coleman–De Luccia · Hartle–Hawking
+       ↓
+Physics Unification Layer
+  Holographic Coherence · K_crit as RG Fixed Point · Intelligence Requires an Outside
+       ↓
 Quantum / Thermodynamic Foundation
-  Universal Coherence Invariant · Landauer Bound · Cramér–Rao Bound
+  Universal Coherence Invariant · Categorical Coherence · Landauer Bound · Cramér–Rao Bound
        ↓
 Foundation
   Universal Update Equation · E=R Invariant · Declaration Primitive
@@ -97,12 +103,16 @@ Layer 3: Empirical Validation
 
 ### Universal Foundation
 
-|Paper                                                                                              |DOI                                                               |
-|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-|Coherence as a Natural Transformation: Categorical Unification of Physical and Evaluative Coherence|[10.5281/zenodo.18897391](https://doi.org/10.5281/zenodo.18897391)|
-|Coherence as a Universal Invariant: From Quantum Decoherence to Institutional Collapse             |[10.5281/zenodo.18897230](https://doi.org/10.5281/zenodo.18897230)|
-|The Cramér–Rao Bound for Coherence: Kcrit as an Information-Geometric Necessity                    |[10.5281/zenodo.18897135](https://doi.org/10.5281/zenodo.18897135)|
-|The Landauer Bound for Corrective Feedback                                                         |[10.5281/zenodo.18896997](https://doi.org/10.5281/zenodo.18896997)|
+|Paper                                                                                                                            |DOI                                                               |
+|---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|Coherence as Vacuum Structure: False Vacuum Decay, Alignment Faking Lifetime, and the Stochastic Formalism of Collapse           |[10.5281/zenodo.18902124](https://doi.org/10.5281/zenodo.18902124)|
+|K_crit as a Universal Fixed Point: Self-Organized Criticality, Renormalization Group, and Cross-Domain Empirical Predictions     |[10.5281/zenodo.18902227](https://doi.org/10.5281/zenodo.18902227)|
+|Intelligence Requires an Outside: The Closed-System Impossibility Theorem, the Cost of Intervention, and AGI as Layered Coherence|[10.5281/zenodo.18902473](https://doi.org/10.5281/zenodo.18902473)|
+|Coherence as Holographic Capacity                                                                                                |[10.5281/zenodo.18901074](https://doi.org/10.5281/zenodo.18901074)|
+|Coherence as a Natural Transformation: Categorical Unification of Physical and Evaluative Coherence                              |[10.5281/zenodo.18897391](https://doi.org/10.5281/zenodo.18897391)|
+|Coherence as a Universal Invariant: From Quantum Decoherence to Institutional Collapse                                           |[10.5281/zenodo.18897230](https://doi.org/10.5281/zenodo.18897230)|
+|The Cramér–Rao Bound for Coherence: Kcrit as an Information-Geometric Necessity                                                  |[10.5281/zenodo.18897135](https://doi.org/10.5281/zenodo.18897135)|
+|The Landauer Bound for Corrective Feedback                                                                                       |[10.5281/zenodo.18896997](https://doi.org/10.5281/zenodo.18896997)|
 
 ### Foundations
 
@@ -173,10 +183,16 @@ The same sequence describes quantum decoherence, thermodynamic entropy accumulat
 ## The Universal Chain
 
 ```
-ℏ → S_vN = 0 → 1=1 → K(t) > Kcrit → k_BT ln2 → I(K)
+ℏ → S_vN = 0 → 1=1 → K(t) > Kcrit → k_BT ln2 → I(K) → holography → G_μν = 8πG T_μν
 ```
 
-Planck’s constant sets the quantum coherence floor. Von Neumann entropy measures it. The 1=1 invariant is the classical-scale analogue. Kcrit is the threshold of its failure. The Boltzmann constant prices the correction. Fisher information measures remaining capacity.
+Planck’s constant sets the quantum coherence floor. Von Neumann entropy measures it. The 1=1 invariant is the classical-scale analogue. Kcrit is the threshold of its failure. The Boltzmann constant prices the correction. Fisher information measures remaining capacity. Holography gives the geometric mechanism. Einstein’s field equations are downstream.
+
+The stochastic formalism closes the chain:
+
+```
+1=1 (true vacuum) → free energy landscape → Coleman bounce → τ ~ exp(S_E/ℏ) → bubble wall = firewall → Jacobson → gravity
+```
 
 -----
 
@@ -195,7 +211,7 @@ Individual papers carry their own DOIs (see table above).
 
 ## Status
 
-25 papers published, all open access CC BY 4.0 via Zenodo.
+30 papers published, all open access CC BY 4.0 via Zenodo.
 
 *The structure was not invented. It became visible.*
 
