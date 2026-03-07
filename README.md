@@ -43,6 +43,8 @@ The metric is multiplicative: any single component collapsing to zero drives tot
 K(t) < Kcrit ≈ 0.127  →  collapse is a trajectory property, not a risk
 ```
 
+Kcrit has been derived three independent ways: dynamical (GCT cubic equation), thermodynamic (Landauer bound), and information-geometric (Cramér–Rao bound). All three converge on the same value.
+
 -----
 
 ## Empirical Validation
@@ -68,25 +70,38 @@ Zero false negatives across 1,052 institutions. Recall = 1.000.
 ## Corpus Architecture
 
 ```
+Quantum / Thermodynamic Foundation
+  Universal Coherence Invariant · Landauer Bound · Cramér–Rao Bound
+       ↓
 Foundation
   Universal Update Equation · E=R Invariant · Declaration Primitive
        ↓
-Layer 0–1: Core Theorems
-  ECT · CIT · GCT · 1=1 Invariant · Information Topology
+Layer 0: Core Theorems
+  ECT · CIT · GCT · 1=1 Invariant · Truth as Fixed Point
        ↓
-Layer 1.5–2: Formal Structure
-  Substrate Invariance (UCT) · Dynamical Systems · Fixed Point · Control Theory
+Layer 1: Formal Structure
+  Information Topology · Substrate Invariance (UCT)
+  Dynamical Systems · Fixed Point · Control Theory
+  Information Architecture
        ↓
-Layer 3: Mechanisms
-  PPP · UoC · RCR · Universal Update · Information Architecture
+Layer 2: Mechanisms
+  PPP · UoC · RCR · FCM · Universal Update
        ↓
-Layer 4: Empirical Validation
-  Large-Scale (52) · Survivor Dataset (1,052) · FCM · Study III
+Layer 3: Empirical Validation
+  Large-Scale (52) · Survivor Dataset (1,052) · Study III
 ```
 
 -----
 
 ## Papers
+
+### Universal Foundation
+
+|Paper                                                                                 |DOI                                                               |
+|--------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|Coherence as a Universal Invariant: From Quantum Decoherence to Institutional Collapse|[10.5281/zenodo.18897230](https://doi.org/10.5281/zenodo.18897230)|
+|The Cramér–Rao Bound for Coherence: Kcrit as an Information-Geometric Necessity       |[10.5281/zenodo.18897135](https://doi.org/10.5281/zenodo.18897135)|
+|The Landauer Bound for Corrective Feedback                                            |[10.5281/zenodo.18896997](https://doi.org/10.5281/zenodo.18896997)|
 
 ### Foundations
 
@@ -140,13 +155,27 @@ Layer 4: Empirical Validation
 The falsifiability channel F(t) is the leading indicator:
 
 ```
-F(t) ↓  →  evaluation drift (IΦ → 0)
+F(t) ↓  →  Fisher information collapse (I(K) ↓)
+        →  evaluation drift (IΦ → 0)
         →  decision incoherence (ρ → 0)
         →  K(t) < Kcrit
-        →  collapse inevitable
+        →  entropy accumulation (Landauer, irreversible)
+        →  collapse inevitable (CIT)
 ```
 
 Below Kcrit, parametric adjustment is insufficient. Structural operator replacement (RCR) is the only escape.
+
+The same sequence describes quantum decoherence, thermodynamic entropy accumulation, and institutional collapse. The mechanism is scale-invariant.
+
+-----
+
+## The Universal Chain
+
+```
+ℏ → S_vN = 0 → 1=1 → K(t) > Kcrit → k_BT ln2 → I(K)
+```
+
+Planck’s constant sets the quantum coherence floor. Von Neumann entropy measures it. The 1=1 invariant is the classical-scale analogue. Kcrit is the threshold of its failure. The Boltzmann constant prices the correction. Fisher information measures remaining capacity.
 
 -----
 
@@ -165,11 +194,12 @@ Individual papers carry their own DOIs (see table above).
 
 ## Status
 
-Active research program. Papers in development: PPP (Power Preservation Principle), extended empirical validation, system recovery dynamics.
-
-
-Method
-The corpus is generated through computational orchestration:
-latent-structure mining, formalization, and empirical testing.
+24 papers published, all open access CC BY 4.0 via Zenodo.
 
 *The structure was not invented. It became visible.*
+
+-----
+
+## Method
+
+Spektre Labs develops its corpus through computational orchestration: latent-structure mining, formalization, and iterative falsification of candidate invariants.
