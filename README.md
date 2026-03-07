@@ -168,6 +168,8 @@ Individual papers carry their own DOIs (see table above).
 Active research program. Papers in development: PPP (Power Preservation Principle), extended empirical validation, system recovery dynamics.
 
 
-The corpus is produced through computational orchestration: iterative analysis, formalization, and verification across multiple datasets and models.
+Method
+The corpus is generated through computational orchestration:
+latent-structure mining, formalization, and empirical testing.
 
 *The structure was not invented. It became visible.*
