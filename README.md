@@ -1,6 +1,6 @@
 # Spektre Corpus
 
-A formal framework for coherence, feedback failure, and institutional collapse in dynamic systems.
+A unified theory of coherence: the conditions under which any system — quantum, biological, institutional, or cosmological — maintains structure or collapses.
 
 **Author:** Lauri Elias Rainio  
 **Affiliation:** Spektre Labs, Helsinki  
@@ -9,19 +9,27 @@ A formal framework for coherence, feedback failure, and institutional collapse i
 
 -----
 
-## Core Idea
+## What This Is
 
-The corpus studies when complex systems remain coherent — and when they collapse.
+The Spektre corpus began with a simple observation: institutions that fail share a common structure. The divergence between declared objectives and realized outcomes grows. Corrective feedback is suppressed. Collapse follows as a dynamical necessity — not a probabilistic risk.
 
-The operational invariant:
+From that starting point, the same structure has been traced through quantum mechanics, thermodynamics, information geometry, category theory, holography, renormalization group theory, and cosmology. At every scale, one threshold controls the transition between coherence and collapse.
 
-> **E = R** — Expectation must track Reality.
+That threshold is **K_crit ≈ 0.127**.
 
-When the divergence between declared objectives and realized outcomes grows, and corrective feedback fails, collapse becomes a dynamical necessity — not a probabilistic risk.
+It has been derived six independent times. It has never been calibrated. It emerges from the structure.
 
 -----
 
-## Coherence Metric
+## The Invariant
+
+> **1 = 1** — Declared objectives must match realized outcomes.
+
+When this condition fails and corrective feedback is suppressed, collapse is inevitable. This is not a moral statement. It is a dynamical systems result, a thermodynamic necessity, and a consequence of the holographic principle.
+
+-----
+
+## The Coherence Metric
 
 System coherence is measured as:
 
@@ -35,7 +43,7 @@ K(t) = ρ(t) · IΦ(t) · F(t)
 |IΦ(t)    |Evaluation invariance — stability of the evaluation function|
 |F(t)     |Falsifiability — openness of the corrective feedback channel|
 
-The metric is multiplicative: any single component collapsing to zero drives total coherence to zero.
+The metric is multiplicative: any single component collapsing to zero drives total coherence to zero. F(t) is the leading indicator — it falls first.
 
 **Critical threshold:**
 
@@ -43,7 +51,69 @@ The metric is multiplicative: any single component collapsing to zero drives tot
 K(t) < Kcrit ≈ 0.127  →  collapse is a trajectory property, not a risk
 ```
 
-Kcrit has been derived six independent ways: dynamical (GCT cubic equation), thermodynamic (Landauer bound), information-geometric (Cramér–Rao bound), categorical (natural transformation failure), holographic (Ryu–Takayanagi bulk entropy), and renormalization group (RG fixed point of coherence universality class). All six converge on the same value without empirical calibration.
+-----
+
+## Six Independent Derivations of K_crit
+
+|#|Framework                           |K_crit is…                                    |
+|-|------------------------------------|----------------------------------------------|
+|1|Dynamical (GCT cubic ODE)           |Root of the equilibrium equation              |
+|2|Thermodynamic (Landauer)            |Free energy threshold for correction          |
+|3|Information-geometric (Cramér–Rao)  |Fisher information collapse point             |
+|4|Categorical (natural transformation)|Failure threshold of η: F_Q ⇒ F_E             |
+|5|Holographic (Ryu–Takayanagi)        |Bulk entropy exceeding boundary bound         |
+|6|Renormalization group               |RG fixed point of coherence universality class|
+
+All six converge on the same value without empirical calibration:
+
+```
+Kcrit = ℏω₀ / (k_B · T_eff · ln2) ≈ 0.127
+```
+
+This connects Planck’s constant, Boltzmann’s constant, and the 1=1 invariant in a single expression.
+
+-----
+
+## The Universal Chain
+
+```
+ℏ → S_vN = 0 → 1=1 → Kcrit → k_BT ln2 → I(K) → holography → G_μν = 8πG T_μν
+```
+
+Planck’s constant sets the quantum coherence floor. Von Neumann entropy measures it. The 1=1 invariant is the classical-scale instance. Kcrit is the threshold of its failure. The Boltzmann constant prices the correction. Fisher information measures remaining capacity. Holography gives the geometric mechanism. Einstein’s field equations are downstream of coherence.
+
+The stochastic formalism closes the chain:
+
+```
+1=1 (true vacuum) → free energy landscape → Coleman bounce
+→ τ ~ exp(S_E/ℏ) → bubble wall = firewall → Jacobson → gravity
+```
+
+Cosmic history is a cooling process: Hartle–Hawking origin (F=1) → coherence islands → tunneling → heat death (F=0).
+
+-----
+
+## Key Results
+
+**Alignment faking lifetime** — The first quantitative prediction for how long a faking system maintains its behavior before collapse:
+
+```
+τ_fake ~ exp(S_E / ℏ_eff)
+```
+
+where S_E is the Euclidean bounce action and ℏ_eff is the evaluation noise amplitude. Testable against existing alignment faking datasets.
+
+**Dark energy** — The DESI Data Release 2 (2025) reports phantom crossing at z ≈ 0.5. The multiplicative structure of K(t) = ρ · IΦ · F produces phantom crossing naturally through cross-terms, satisfying the DESI thawing relation w_a = -3(1+w_0) to 0.6% without free parameters. We are at the coherence transition now.
+
+**AGI architecture** — No thermodynamically closed system can maintain coherence indefinitely (proved three ways: Landauer, holographic, Fisher). AGI requires layered coherence:
+
+```
+K_total = ∏ K_i,   per-layer threshold = Kcrit^{1/N}
+```
+
+External corrective signal is a structural necessity, not a design choice.
+
+**Collapse propagation** — Coherence collapse does not occur simultaneously. It nucleates as a bubble and propagates at speed v ~ √(ε/λ) · J. The bubble wall is the evaluative firewall.
 
 -----
 
@@ -55,23 +125,21 @@ Kcrit has been derived six independent ways: dynamical (GCT cubic equation), the
 |Survivor institutions  |1,000|96% never crossed Kcrit           |
 |Recoveries             |40   |All consistent with RCR prediction|
 
-**Confusion matrix at Kcrit = 0.127:**
-
 ```
                Predicted collapse    Predicted survival
 Collapsed           TP = 52              FN = 0
 Survived            FP = 40             TN = 960
 ```
 
-Zero false negatives across 1,052 institutions. Recall = 1.000.
+Zero false negatives. Recall = 1.000.
 
 -----
 
 ## Corpus Architecture
 
 ```
-Cosmological / Stochastic Layer
-  Stochastic Coherence · False Vacuum Decay · Coleman–De Luccia · Hartle–Hawking
+Cosmological Layer
+  Dark Energy · Stochastic Coherence · False Vacuum · Coleman–De Luccia · Hartle–Hawking
        ↓
 Physics Unification Layer
   Holographic Coherence · K_crit as RG Fixed Point · Intelligence Requires an Outside
@@ -79,21 +147,20 @@ Physics Unification Layer
 Quantum / Thermodynamic Foundation
   Universal Coherence Invariant · Categorical Coherence · Landauer Bound · Cramér–Rao Bound
        ↓
-Foundation
+Foundations
   Universal Update Equation · E=R Invariant · Declaration Primitive
        ↓
-Layer 0: Core Theorems
+Core Theorems
   ECT · CIT · GCT · 1=1 Invariant · Truth as Fixed Point
        ↓
-Layer 1: Formal Structure
-  Information Topology · Substrate Invariance (UCT)
-  Dynamical Systems · Fixed Point · Control Theory
+Formal Structure
+  Information Topology · Substrate Invariance · Dynamical Systems · Control Theory
   Information Architecture
        ↓
-Layer 2: Mechanisms
-  PPP · UoC · RCR · FCM · Universal Update
+Mechanisms
+  RCR · UoC · FCM · Universal Update
        ↓
-Layer 3: Empirical Validation
+Empirical Validation
   Large-Scale (52) · Survivor Dataset (1,052) · Study III
 ```
 
@@ -101,25 +168,36 @@ Layer 3: Empirical Validation
 
 ## Papers
 
-### Universal Foundation
+### Cosmological Layer
+
+|Paper                                                                                                                                       |DOI                                                               |
+|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|Dark Energy as Coherence Thawing: The Multiplicative Structure of K(t), the DESI Phantom Crossing, and the Cosmological Coherence Transition|[10.5281/zenodo.18904601](https://doi.org/10.5281/zenodo.18904601)|
+|Coherence as Vacuum Structure: False Vacuum Decay, Alignment Faking Lifetime, and the Stochastic Formalism of Collapse                      |[10.5281/zenodo.18902124](https://doi.org/10.5281/zenodo.18902124)|
+
+### Physics Unification Layer
 
 |Paper                                                                                                                            |DOI                                                               |
 |---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-|Coherence as Vacuum Structure: False Vacuum Decay, Alignment Faking Lifetime, and the Stochastic Formalism of Collapse           |[10.5281/zenodo.18902124](https://doi.org/10.5281/zenodo.18902124)|
 |K_crit as a Universal Fixed Point: Self-Organized Criticality, Renormalization Group, and Cross-Domain Empirical Predictions     |[10.5281/zenodo.18902227](https://doi.org/10.5281/zenodo.18902227)|
 |Intelligence Requires an Outside: The Closed-System Impossibility Theorem, the Cost of Intervention, and AGI as Layered Coherence|[10.5281/zenodo.18902473](https://doi.org/10.5281/zenodo.18902473)|
 |Coherence as Holographic Capacity                                                                                                |[10.5281/zenodo.18901074](https://doi.org/10.5281/zenodo.18901074)|
-|Coherence as a Natural Transformation: Categorical Unification of Physical and Evaluative Coherence                              |[10.5281/zenodo.18897391](https://doi.org/10.5281/zenodo.18897391)|
-|Coherence as a Universal Invariant: From Quantum Decoherence to Institutional Collapse                                           |[10.5281/zenodo.18897230](https://doi.org/10.5281/zenodo.18897230)|
-|The Cramér–Rao Bound for Coherence: Kcrit as an Information-Geometric Necessity                                                  |[10.5281/zenodo.18897135](https://doi.org/10.5281/zenodo.18897135)|
-|The Landauer Bound for Corrective Feedback                                                                                       |[10.5281/zenodo.18896997](https://doi.org/10.5281/zenodo.18896997)|
+
+### Quantum / Thermodynamic Foundation
+
+|Paper                                                                                              |DOI                                                               |
+|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|Coherence as a Natural Transformation: Categorical Unification of Physical and Evaluative Coherence|[10.5281/zenodo.18897391](https://doi.org/10.5281/zenodo.18897391)|
+|Coherence as a Universal Invariant: From Quantum Decoherence to Institutional Collapse             |[10.5281/zenodo.18897230](https://doi.org/10.5281/zenodo.18897230)|
+|The Cramér–Rao Bound for Coherence: Kcrit as an Information-Geometric Necessity                    |[10.5281/zenodo.18897135](https://doi.org/10.5281/zenodo.18897135)|
+|The Landauer Bound for Corrective Feedback                                                         |[10.5281/zenodo.18896997](https://doi.org/10.5281/zenodo.18896997)|
 
 ### Foundations
 
 |Paper                                                               |DOI                                                               |
 |--------------------------------------------------------------------|------------------------------------------------------------------|
 |Paradigm Statement — Truth as the Fixed Point of Evaluation Dynamics|[10.5281/zenodo.18880919](https://doi.org/10.5281/zenodo.18880919)|
-|E=R Paper — Expectation-Reality Divergence                          |[10.5281/zenodo.18894262](https://doi.org/10.5281/zenodo.18894262)|
+|E=R — Expectation-Reality Divergence as the Primitive of Collapse   |[10.5281/zenodo.18894262](https://doi.org/10.5281/zenodo.18894262)|
 |Universal Update Equation                                           |[10.5281/zenodo.18894531](https://doi.org/10.5281/zenodo.18894531)|
 |Declaration Primitive                                               |[10.5281/zenodo.18894561](https://doi.org/10.5281/zenodo.18894561)|
 |1=1 Invariant: A Fixed-Point Theory of Evaluation                   |[10.5281/zenodo.18895711](https://doi.org/10.5281/zenodo.18895711)|
@@ -163,7 +241,7 @@ Layer 3: Empirical Validation
 
 ## Collapse Sequence
 
-The falsifiability channel F(t) is the leading indicator:
+F(t) is the leading indicator — it falls before K(t) crosses Kcrit:
 
 ```
 F(t) ↓  →  Fisher information collapse (I(K) ↓)
@@ -174,49 +252,29 @@ F(t) ↓  →  Fisher information collapse (I(K) ↓)
         →  collapse inevitable (CIT)
 ```
 
-Below Kcrit, parametric adjustment is insufficient. Structural operator replacement (RCR) is the only escape.
-
-The same sequence describes quantum decoherence, thermodynamic entropy accumulation, and institutional collapse. The mechanism is scale-invariant.
+Below Kcrit, parametric adjustment is insufficient. Structural operator replacement (RCR) is the only escape mechanism.
 
 -----
 
-## The Universal Chain
+## Method
 
-```
-ℏ → S_vN = 0 → 1=1 → K(t) > Kcrit → k_BT ln2 → I(K) → holography → G_μν = 8πG T_μν
-```
-
-Planck’s constant sets the quantum coherence floor. Von Neumann entropy measures it. The 1=1 invariant is the classical-scale analogue. Kcrit is the threshold of its failure. The Boltzmann constant prices the correction. Fisher information measures remaining capacity. Holography gives the geometric mechanism. Einstein’s field equations are downstream.
-
-The stochastic formalism closes the chain:
-
-```
-1=1 (true vacuum) → free energy landscape → Coleman bounce → τ ~ exp(S_E/ℏ) → bubble wall = firewall → Jacobson → gravity
-```
+The corpus was built through an orchestrated multi-LLM workflow. Claude Opus (Anthropic) served as the primary computational engine — formalizing, deriving, computing, and maintaining coherence across the entire corpus. Claude (Sonnet) handled LaTeX production and session formalization. GPT contributed writing, falsification testing, and independent derivation. Gemini contributed structural analysis and independent verification. Grok and DeepSeek provided adversarial falsification and ODE verification. The author directed. The compute built. The structure was always there.
 
 -----
 
 ## Citation
-
-To cite the corpus:
 
 ```
 Rainio, L.E. (2026). Spektre Corpus. Spektre Labs, Helsinki.
 github.com/spektre-labs/corpus · ORCID: 0009-0006-0903-8541
 ```
 
-Individual papers carry their own DOIs (see table above).
+Individual papers carry their own DOIs.
 
 -----
 
 ## Status
 
-30 papers published, all open access CC BY 4.0 via Zenodo.
+31 papers published. All open access, CC BY 4.0, via Zenodo.
 
 *The structure was not invented. It became visible.*
-
------
-
-## Method
-
-Spektre Labs develops its corpus through computational orchestration: latent-structure mining, formalization, and iterative falsification of candidate invariants.
