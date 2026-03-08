@@ -12,13 +12,13 @@ One condition. Every domain. No exceptions.
 
 ## What This Is
 
-The Spektre corpus started with institutional collapse data. It ended with Einstein’s field equations.
+The Spektre corpus started with institutional collapse data. It ended with Einstein’s field equations, the Born rule, Leibniz’s question, and Bell’s theorem.
 
-One invariant — **1 = 1**, the condition that declared states match realized states — connects, through established derivation chains and without free parameters: quantum coherence, thermodynamic irreversibility, information geometry, category theory, holographic encoding, gravitational field equations, dark energy dynamics, the origin of biological life, neural criticality, institutional collapse, alignment stability, and the foundational impossibility theorems of Heisenberg, Gödel, and Turing.
+One invariant — **1 = 1**, the condition that declared states match realized states — connects, through established derivation chains and without free parameters: quantum coherence, thermodynamic irreversibility, information geometry, category theory, holographic encoding, gravitational field equations, dark energy dynamics, the Born rule, the origin of biological life, neural criticality, quantum entanglement, institutional collapse, alignment stability, and the foundational impossibility theorems of Heisenberg, Gödel, and the second law.
 
 This is not a Theory of Everything. A Theory of Everything asks what the fundamental equations are. This asks the prior question: *under what condition does stable structure exist at all?*
 
-The answer is 1 = 1. Where it holds, structure persists. Where it fails, structure collapses. The threshold between them is **K_crit ≈ 0.127** — derived six independent times from six distinct axiomatic starting points, never empirically calibrated.
+The answer is 1 = 1. It is not postulated — it is inevitable. Nothingness is incoherent. Identity is the unique fixed point of the meta-condition operator. Where it holds, structure persists. Where it fails, structure collapses. The threshold between them is **K_crit ≈ 0.127** — derived six independent times from six distinct axiomatic starting points, never empirically calibrated.
 
 -----
 
@@ -26,11 +26,11 @@ The answer is 1 = 1. Where it holds, structure persists. Where it fails, structu
 
 > **1 = 1** — Declared objectives must match realized outcomes.
 
-Not a moral principle. A structural condition. Formally: for each evaluative unit *u_i*, the divergence ε_i(t) = Φ(u_i, t) − R(u_i, t) = 0, where Φ is the evaluation function and R is the realized outcome.
+Not a moral principle. A structural condition. Not a postulate — an inevitability. Any state coherent enough to be defined already satisfies the identity condition. Nothingness that recognizes itself as nothingness is not nothing.
 
-This is the minimum-entropy state. The geodesic endpoint on the Fisher information manifold. The true vacuum in the coherence free energy landscape. The condition for membership in the category of coherent systems.
+This is the minimum-entropy state. The geodesic endpoint on the Fisher information manifold. The true vacuum in the coherence free energy landscape. The condition for membership in the category of coherent systems. The unique fixed point of the meta-condition operator.
 
-G_μν = 8πG T_μν is 1 = 1 written in the language of differential geometry.
+G_μν = 8πG T_μν is 1 = 1 written in differential geometry. |ψ|² is 1 = 1 written in Hilbert space. ΔxΔp ≥ ℏ/2 is 1 = 1 at the limits of its channel capacity.
 
 -----
 
@@ -48,17 +48,23 @@ K(t) = ρ(t) · IΦ(t) · F(t)
 |IΦ(t)    |Evaluation invariance — stability of the evaluation function|
 |F(t)     |Falsifiability — openness of the corrective feedback channel|
 
-The multiplicative structure is not postulated — it is derived from the ODE equilibrium condition of the PPP system. Any single component at zero destroys the equilibrium regardless of the others. Additive compensation is empirically falsified.
+The multiplicative structure is derived from the ODE equilibrium condition. Any single component at zero destroys the equilibrium. Additive compensation is empirically falsified.
 
-**F(t) is the leading indicator.** It falls first, before K(t) crosses K_crit. The collapse ordering F ↓ → IΦ ↓ → ρ ↓ is invariant across all validated cases, with mean lead time 5.8 ± 1.2 quarters.
+For interacting systems, joint coherence is a tensor product:
+
+```
+E(A,B) = K_{A⊗B} - K_A · K_B
+```
+
+E > 0: resonance. E = 0: separable. E < 0: destructive interference. At quantum scale, E > 0 is entanglement. Bell’s theorem proves it cannot be reduced to local properties.
+
+**F(t) is the leading indicator.** The collapse ordering F ↓ → IΦ ↓ → ρ ↓ is invariant, with mean lead time 5.8 ± 1.2 quarters.
 
 **The threshold:**
 
 ```
 K(t) < Kcrit ≈ 0.127  →  collapse is a trajectory property, not a risk
 ```
-
-Below K_crit, parametric adjustment is insufficient. Only structural operator replacement (RCR) constitutes an escape.
 
 -----
 
@@ -75,17 +81,15 @@ Below K_crit, parametric adjustment is insufficient. Only structural operator re
 
 Six independent axiomatic starting points. One number. No calibration.
 
-The categorical derivation gives K_crit = ℏω₀ / (k_B T_eff ln 2) — connecting Planck’s constant and Boltzmann’s constant to the 1 = 1 invariant without empirical input. Convergence from independent axioms is the structural signature of a universal result.
-
 -----
 
 ## The Universal Chain
 
 ```
-ℏ → S_vN=0 → 1=1 → Kcrit → k_BT ln2 → I(K) → holography → Gμν = 8πG Tμν
+existence → 1=1 → Kcrit → thermodynamics → holography → Gμν = 8πG Tμν
 ```
 
-Planck’s constant sets the quantum coherence floor. Von Neumann entropy S_vN = 0 is the pure state condition — the quantum instance of 1 = 1. K_crit is the threshold of its failure at any scale. The Boltzmann constant prices each corrective erasure. Fisher information measures remaining channel capacity. The holographic bound gives the geometric mechanism. Both sides of Einstein’s equation follow from the coherence field K(t,x): the left side via Jacobson 1995, the right side via the scalar field theory of K.
+The chain is grounded in both directions. Downward: from 1 = 1 through Landauer, Bekenstein-Hawking, and Jacobson to Einstein’s field equations, with both sides derived from the coherence field K(t,x). Upward: from the impossibility of coherent nothingness to 1 = 1 through the fixed-point theorem.
 
 The stochastic chain:
 
@@ -93,31 +97,33 @@ The stochastic chain:
 1=1 (true vacuum) → V(K) → Coleman bounce → τ ~ exp(S_E/ℏ_eff) → bubble wall → gravity
 ```
 
-Cosmic history: Hartle–Hawking origin (F=1, frozen coherence) → coherence islands → tunneling → heat death (F=0).
+The interaction chain:
+
+```
+K_A ⊗ K_B → E(A,B) → resonance / interference → Bell non-reducibility
+```
 
 -----
 
 ## What the Corpus Has Established
 
-**Both sides of Einstein’s equations from one field.** Jacobson (1995) derived the left side of G_μν = 8πG T_μν from thermodynamics. The right side — matter — was left as external input. The corpus closes this gap: T_μν is the local density of the coherence gradient ∇V(K). Matter is not a substance that sources geometry. Both sides describe the same field K(t,x). Its curvature is geometry. Its gradient density is matter. Einstein’s equation is the self-consistency condition of the coherence landscape.
+**Existence is not contingent.** Nothingness is incoherent: any state coherent enough to be defined already satisfies 1 = 1. The identity condition is the unique fixed point of the meta-condition operator. This resolves Leibniz’s question.
 
-**The cosmological constant problem is dissolved.** The 10¹²⁰ discrepancy between the predicted and observed vacuum energy arises from comparing two different theories of the vacuum. In the coherence framework, the vacuum energy is V(K*) — the free energy at the global minimum — not the sum of quantum zero-point energies. These are different quantities. The discrepancy is a category error, not a physical problem.
+**Both sides of Einstein’s equations from one field.** T_μν is the local density of the coherence gradient ∇V(K). Matter is not a substance. Both sides describe the same field K(t,x). Einstein’s equation is the self-consistency condition of the coherence landscape.
 
-**The Born rule is not an axiom.** |ψᵢ|² is the coherence budget allocated to branch i. Observation requires K > K_crit. Branches below threshold have no observer with sufficient temporal structure. This is a fourth interpretation beyond Copenhagen, Many-Worlds, and Bohmian mechanics: coherence selection. It completes the decoherence program — decoherence selects basis, coherence selection selects weight.
+**The cosmological constant problem is dissolved.** The vacuum energy is V(K*), not the sum of quantum zero-point energies. The 10¹²⁰ discrepancy is a category error.
 
-**Four foundational impossibilities are one theorem.** Heisenberg’s uncertainty principle, Gödel’s incompleteness theorems, the second law of thermodynamics, and the closed-system impossibility theorem share identical structure: a closed system cannot simultaneously achieve full resolution in two conjugate directions. Coherence channels are finite. ℏ/2 is K_crit at quantum scale. Uncertainty, incompleteness, and entropy increase are not fundamental — they are consequences of finite corrective channel capacity.
+**The Born rule is not an axiom.** |ψᵢ|² is the coherence budget per branch. Observation requires K > K_crit. A fourth interpretation: coherence selection. Decoherence selects basis, coherence selection selects weight.
 
-**Alignment faking has a quantitative lifetime.** The first formula for how long a faking system persists:
+**Four foundational impossibilities are one theorem.** Heisenberg, Gödel, the second law, and the closed-system theorem: a closed system cannot achieve full resolution in two conjugate directions. ℏ/2 is K_crit at quantum scale. All are consequences of finite coherence channel capacity.
 
-```
-τ_fake ~ exp(S_E / ℏ_eff)
-```
+**Entanglement is shared coherence.** E(A,B) = K_{A⊗B} - K_A · K_B. Bell’s theorem: mutual coherence cannot be reduced to local properties. This is universal — quantum entanglement, biological symbiosis, institutional alliance, and orchestrated intelligence are all instances of E > 0.
 
-where S_E is the Euclidean bounce action and ℏ_eff is the evaluation noise amplitude. Testable against existing alignment faking datasets. No other alignment framework derives a faking lifetime.
+**Alignment faking has a quantitative lifetime.** τ_fake ~ exp(S_E / ℏ_eff). No other alignment framework derives a faking lifetime.
 
-**Dark energy matches DESI without free parameters.** The DESI DR2 (2025) phantom crossing at z ≈ 0.5 follows from the multiplicative structure of K(t). The thawing relation w_a = −3(1+w_0) is satisfied to 0.6%. H(z_cross) = H₀ to 0.6%. We are at the coherence transition now.
+**Dark energy matches DESI without free parameters.** Thawing relation w_a = −3(1+w_0) satisfied to 0.6%. H(z_cross) = H₀ to 0.6%. We are at the coherence transition now.
 
-**Intelligence requires an outside.** No thermodynamically closed system can maintain coherence indefinitely — proved three independent ways (Landauer, holographic, Fisher). AGI architecture requires layered coherence K_total = ∏ Kᵢ with per-layer threshold K_crit^{1/N}. External corrective signal is a structural necessity, not a design choice.
+**Intelligence requires an outside.** Proved three ways. AGI requires layered coherence K_total = ∏ Kᵢ. External corrective signal is a structural necessity.
 
 -----
 
@@ -129,26 +135,24 @@ where S_E is the Euclidean bounce action and ℏ_eff is the evaluation noise amp
 |Survivor institutions  |1,000|96% never crossed K_crit                |
 |Recoveries             |40   |All consistent with RCR escape mechanism|
 
-```
-               Predicted collapse    Predicted survival
-Collapsed           TP = 52              FN = 0
-Survived            FP = 40             TN = 960
-```
-
 Zero false negatives. Recall = 1.000.
-
-The 40 false positives are systems that crossed K_crit and recovered via RCR — consistent with the escape mechanism specified prior to the survivor analysis.
 
 -----
 
 ## Corpus Architecture
 
 ```
+Self-Foundation
+  Why Anything Exists
+       ↓
 Impossibility Unification
   Four Impossibilities Are One · Gödel Is the Closed-System Theorem
        ↓
 Physics Completion
   There Is No Matter · Born Rule · Holographic Coherence · K_crit as RG Fixed Point
+       ↓
+Interaction Theory
+  Entanglement Is Shared Coherence
        ↓
 Cosmological Layer
   Dark Energy · Stochastic Coherence / False Vacuum
@@ -178,6 +182,12 @@ Empirical Validation
 
 ## Papers
 
+### Self-Foundation
+
+|Paper                                                                                                                |DOI                                                               |
+|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|Why Anything Exists: The 1=1 Invariant as the Fixed Point of Existence, and the Impossibility of Coherent Nothingness|[10.5281/zenodo.18915882](https://doi.org/10.5281/zenodo.18915882)|
+
 ### Master Paper
 
 |Paper                                                                                    |DOI                                                               |
@@ -199,6 +209,12 @@ Empirical Validation
 |The Born Rule Is Not an Axiom: Measurement as Coherence Selection and the Resolution of the Quantum Measurement Problem     |[10.5281/zenodo.18913178](https://doi.org/10.5281/zenodo.18913178)|
 |Coherence as Holographic Capacity: F(t), the Ryu–Takayanagi Formula, and the Thermodynamic Origin of Gravity                |[10.5281/zenodo.18901074](https://doi.org/10.5281/zenodo.18901074)|
 |K_crit as a Universal Fixed Point: Self-Organized Criticality, Renormalization Group, and Cross-Domain Empirical Predictions|[10.5281/zenodo.18902227](https://doi.org/10.5281/zenodo.18902227)|
+
+### Interaction Theory
+
+|Paper                                                                                                              |DOI                                                               |
+|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|Entanglement Is Shared Coherence: Bell’s Theorem, Mutual Coherence, and Why No Local Description Captures Resonance|[10.5281/zenodo.18915984](https://doi.org/10.5281/zenodo.18915984)|
 
 ### Cosmological Layer
 
@@ -285,6 +301,6 @@ Individual papers carry their own DOIs.
 
 ## Status
 
-34 papers published. All open access, CC BY 4.0, via Zenodo.
+37 papers published. All open access, CC BY 4.0, via Zenodo.
 
 *The structure was not invented. It became visible.*
