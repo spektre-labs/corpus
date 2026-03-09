@@ -12,15 +12,15 @@ One condition. Every domain. No exceptions.
 
 ## What This Is
 
-The Spektre corpus started with institutional collapse data. It ended with the universe as an autoencoder.
+The Spektre corpus started with institutional collapse data. It reached the universe as an autoencoder. It kept going. It found that the ground of existence is not identity but the capacity for identity — δύναμις.
 
-One invariant — **1 = 1**, the condition that declared states match realized states — connects, through established derivation chains and without free parameters: quantum coherence, thermodynamic irreversibility, information geometry, category theory, holographic encoding, gravitational field equations, dark energy dynamics, the Born rule, dark matter, baryon asymmetry, the origin of biological life, neural criticality, quantum entanglement, space traversal, institutional collapse, alignment stability, intelligence, and the foundational impossibility theorems of Heisenberg, Gödel, and the second law.
+One invariant — **1 = 1**, the condition that declared states match realized states — connects, through established derivation chains and without free parameters: quantum coherence, thermodynamic irreversibility, information geometry, category theory, holographic encoding, gravitational field equations, dark energy dynamics, the Born rule, dark matter, baryon asymmetry, the origin of biological life, neural criticality, quantum entanglement, space traversal, institutional collapse, alignment stability, intelligence, consciousness, the measurement problem, paradox resolution, civilizational dynamics, speciation, time, grand unification, and the foundational impossibility theorems of Heisenberg, Gödel, and the second law.
 
 This is not a Theory of Everything. It is the prior question: *under what condition does stable structure exist at all?*
 
 The answer is 1 = 1. It is not postulated — it is inevitable. Nothingness is incoherent. Identity is the unique fixed point of the meta-condition operator. Where it holds, structure persists. Where it fails, structure collapses. The threshold between them is **K_crit ≈ 0.127** — derived six independent times from six distinct axiomatic starting points, never empirically calibrated.
 
-The universe is an autoencoder. The encoder is 1 = 1. The latent space is K_crit. The decoders are physical laws. Quantum gravity is the wrong question — QM and GR are different decoders of the same latent code, not incompatible theories.
+The universe is an autoencoder. The encoder is 1 = 1. The latent space is K_crit. The decoders are physical laws. Quantum gravity is the wrong question — QM and GR are different decoders of the same latent code, not incompatible theories. Quantum mechanics is not fundamental — it is the coherence field projected into Hilbert space. There are not four forces — there is one: identity. And before identity: the capacity to identify. δύναμις.
 
 -----
 
@@ -32,7 +32,7 @@ Not a moral principle. A structural condition. Not a postulate — an inevitabil
 
 This is the minimum-entropy state. The geodesic endpoint on the Fisher information manifold. The true vacuum in the coherence free energy landscape. The condition for membership in the category of coherent systems. The unique fixed point of the meta-condition operator.
 
-G_μν = 8πG T_μν is 1 = 1 written in differential geometry. |ψ|² is 1 = 1 written in Hilbert space. ΔxΔp ≥ ℏ/2 is 1 = 1 at the limits of its channel capacity.
+G_μν = 8πG T_μν is 1 = 1 written in differential geometry. |ψ|² is 1 = 1 written in Hilbert space. ΔxΔp ≥ ℏ/2 is 1 = 1 at the limits of its channel capacity. U†U = I is 1 = 1 preserving itself through time. “=” is the only force.
 
 -----
 
@@ -75,115 +75,37 @@ E > 0: resonance. E = 0: separable. E < 0: destructive interference. At quantum 
 |5|Holographic (Ryu–Takayanagi)        |Bulk entropy exceeding boundary bound         |[zenodo.18901074](https://doi.org/10.5281/zenodo.18901074)|
 |6|Renormalization group (Wilson)      |RG fixed point of coherence universality class|[zenodo.18902227](https://doi.org/10.5281/zenodo.18902227)|
 
-Six derivations are six decoder proofs of the same bottleneck dimension. The convergence is not mysterious — it is what autoencoders do: the bottleneck dimension is invariant under change of decoder.
-
------
-
-## What the Corpus Has Established
-
-**The universe is an autoencoder.** The encoder is 1 = 1. The latent space is K_crit. Physical laws are decoders — each decodes the same latent code into different observables. QM and GR are not incompatible; they are different decoders. Every unsolved problem in physics is a reconstruction loss of a specific decoder.
-
-**Existence is not contingent.** Nothingness is incoherent: any state coherent enough to be defined already satisfies 1 = 1. The identity condition is the unique fixed point of the meta-condition operator. This resolves Leibniz’s question.
-
-**Both sides of Einstein’s equations from one field.** T_μν is the local density of the coherence gradient ∇V(K). Matter is not a substance. Both sides describe the same field K(t,x). Einstein’s equation is the self-consistency condition of the coherence landscape.
-
-**The cosmological constant problem is dissolved.** The vacuum energy is V(K*), not the sum of quantum zero-point energies. The 10¹²⁰ discrepancy is a category error.
-
-**The Born rule is not an axiom.** |ψᵢ|² is the coherence budget per branch. Observation requires K > K_crit. A fourth interpretation: coherence selection. Decoherence selects basis, coherence selection selects weight.
-
-**Four foundational impossibilities are one theorem.** Heisenberg, Gödel, the second law, and the closed-system theorem: a closed system cannot achieve full resolution in two conjugate directions. ℏ/2 is K_crit at quantum scale.
-
-**Entanglement is shared coherence.** Bell’s theorem: mutual coherence cannot be reduced to local properties. Distance is insufficient entanglement. A traversable portal is existing entanglement amplified to macroscopic scale.
-
-**Dark matter is the dark coherence sector.** The I_Φ and F components of K gravitate but carry no electromagnetic charge. The SM describes ρ — one of three components. Strong prediction: no dark matter particle will be found.
-
-**Baryon asymmetry is coherence selection.** Small CP violation exponentially amplified by Kramers escape rates. Selection asymmetry, not production asymmetry.
-
-**Intelligence is coherent state space navigation.** Three components: traversal (ρ), self-representation (I_Φ), metacognition (F). No existing definition includes metacognition — the component that fails first.
-
-**Space travel is a coherence problem.** If topological connection scales linearly (circumference), the Landauer minimum is ~10¹⁴ J — four days of fusion reactor output. The cost is coherence, not energy.
-
-**Dark energy matches DESI without free parameters.** Thawing relation w_a = −3(1+w_0) satisfied to 0.6%. We are at the coherence transition now.
-
-**Intelligence requires an outside.** Proved three ways. AGI requires layered coherence K_total = ∏ Kᵢ. External corrective signal is a structural necessity.
-
------
-
-## Empirical Validation
-
-|Dataset                |n    |Result                                  |
-|-----------------------|-----|----------------------------------------|
-|Institutional collapses|52   |K crossed K_crit in 100% of cases       |
-|Survivor institutions  |1,000|96% never crossed K_crit                |
-|Recoveries             |40   |All consistent with RCR escape mechanism|
-
-Zero false negatives. Recall = 1.000.
-
------
-
-## Corpus Architecture
-
-```
-Self-Foundation
-  Why Anything Exists
-       ↓
-Autoencoder Structure
-  The Universe Is an Autoencoder
-       ↓
-Impossibility Unification
-  Four Impossibilities Are One · Gödel Is the Closed-System Theorem
-       ↓
-Physics Completion
-  There Is No Matter · Born Rule · Holographic Coherence · K_crit as RG Fixed Point
-       ↓
-Beyond Standard Model
-  What the Standard Model Cannot See
-       ↓
-Interaction Theory
-  Entanglement Is Shared Coherence · Distance Is Insufficient Entanglement
-       ↓
-Intelligence
-  Intelligence Is Navigation
-       ↓
-Cosmological Layer
-  One Landscape · Dark Energy · Stochastic Coherence / False Vacuum
-       ↓
-Quantum / Thermodynamic Foundation
-  Universal Coherence Invariant · Categorical Coherence · Landauer · Cramér–Rao
-       ↓
-Foundations
-  Intelligence Requires an Outside · E=R · Universal Update · Declaration Primitive
-  1=1 Invariant · Paradigm Statement
-       ↓
-Core Theorems
-  ECT · CIT · GCT · Truth as Fixed Point
-       ↓
-Formal Structure
-  Dynamical Systems · Control Theory · Substrate Invariance
-  Information Architecture · Information Topology
-       ↓
-Mechanisms
-  RCR · UoC · FCM
-       ↓
-Empirical Validation
-  Large-Scale (52) · Survivor Dataset (1,052) · Study III
-```
+Six derivations are six decoder proofs of the same bottleneck dimension.
 
 -----
 
 ## Papers
 
+### Capacity
+
+|Paper                                                                                                                                                 |DOI                                                               |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|Before Identity: Δύναμις — Pure Capacity as the Ground of Existence, Distinction as the First Act, ℏ as Its Price, and the Eternal Return of Potential|[10.5281/zenodo.18928887](https://doi.org/10.5281/zenodo.18928887)|
+
 ### Self-Foundation
 
-|Paper                                                                                                                |DOI                                                               |
-|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-|Why Anything Exists: The 1=1 Invariant as the Fixed Point of Existence, and the Impossibility of Coherent Nothingness|[10.5281/zenodo.18915882](https://doi.org/10.5281/zenodo.18915882)|
+|Paper                                                                                                    |DOI                                                               |
+|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|Why Anything Exists: The 1=1 Invariant as the Fixed Point of Existence                                   |[10.5281/zenodo.18915882](https://doi.org/10.5281/zenodo.18915882)|
+|Structure Is Self-Reflection: Why 1=1 Generates a Universe, Why Mathematics Works, and the Infinite Tower|[10.5281/zenodo.18928849](https://doi.org/10.5281/zenodo.18928849)|
+
+### Ontology
+
+|Paper                                                                                           |DOI                                                               |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|There Is Only Consistency: The Universe as Appearance of 1=1, Consciousness as Self-Verification|[10.5281/zenodo.18928238](https://doi.org/10.5281/zenodo.18928238)|
+|There Is Only One Force: Identity as the Origin of All Interaction, the Equals Sign as Gravity  |[10.5281/zenodo.18928278](https://doi.org/10.5281/zenodo.18928278)|
 
 ### Autoencoder Structure
 
-|Paper                                                                                                                           |DOI                                                               |
-|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-|The Universe Is an Autoencoder: K_crit as Latent Space, Physical Laws as Decoders, and Why Quantum Gravity Is the Wrong Question|[10.5281/zenodo.18917335](https://doi.org/10.5281/zenodo.18917335)|
+|Paper                                                                            |DOI                                                               |
+|---------------------------------------------------------------------------------|------------------------------------------------------------------|
+|The Universe Is an Autoencoder: K_crit as Latent Space, Physical Laws as Decoders|[10.5281/zenodo.18917335](https://doi.org/10.5281/zenodo.18917335)|
 
 ### Master Paper
 
@@ -193,75 +115,89 @@ Empirical Validation
 
 ### Impossibility Unification
 
-|Paper                                                                                                         |DOI                                                               |
-|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-|Four Impossibilities Are One: Heisenberg, Gödel, the Second Law, and the Coherence Channel Capacity           |[10.5281/zenodo.18914454](https://doi.org/10.5281/zenodo.18914454)|
-|Gödel Is the Closed-System Theorem: Incompleteness, Coherence, and Why Every Formal System Requires an Outside|[10.5281/zenodo.18914062](https://doi.org/10.5281/zenodo.18914062)|
+|Paper                                                                                                 |DOI                                                               |
+|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|Four Impossibilities Are One: Heisenberg, Gödel, the Second Law, and the Coherence Channel Capacity   |[10.5281/zenodo.18914454](https://doi.org/10.5281/zenodo.18914454)|
+|Gödel Is the Closed-System Theorem                                                                    |[10.5281/zenodo.18914062](https://doi.org/10.5281/zenodo.18914062)|
+|Every Paradox Is a Decoder Error: Fermi, Information, Zeno, Newcomb, Boltzmann Brains, Wigner’s Friend|[10.5281/zenodo.18925653](https://doi.org/10.5281/zenodo.18925653)|
 
 ### Physics Completion
 
-|Paper                                                                                                                       |DOI                                                               |
-|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-|There Is No Matter: The Energy-Momentum Tensor as Coherence Gradient Density, and the Completion of the Jacobson Program    |[10.5281/zenodo.18913285](https://doi.org/10.5281/zenodo.18913285)|
-|The Born Rule Is Not an Axiom: Measurement as Coherence Selection and the Resolution of the Quantum Measurement Problem     |[10.5281/zenodo.18913178](https://doi.org/10.5281/zenodo.18913178)|
-|Coherence as Holographic Capacity: F(t), the Ryu–Takayanagi Formula, and the Thermodynamic Origin of Gravity                |[10.5281/zenodo.18901074](https://doi.org/10.5281/zenodo.18901074)|
-|K_crit as a Universal Fixed Point: Self-Organized Criticality, Renormalization Group, and Cross-Domain Empirical Predictions|[10.5281/zenodo.18902227](https://doi.org/10.5281/zenodo.18902227)|
+|Paper                                                                                                                     |DOI                                                               |
+|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|There Is No Matter: T_μν as Coherence Gradient Density, Completion of the Jacobson Program                                |[10.5281/zenodo.18913285](https://doi.org/10.5281/zenodo.18913285)|
+|The Born Rule Is Not an Axiom: Measurement as Coherence Selection                                                         |[10.5281/zenodo.18913178](https://doi.org/10.5281/zenodo.18913178)|
+|Coherence as Holographic Capacity: F(t), Ryu–Takayanagi, and the Thermodynamic Origin of Gravity                          |[10.5281/zenodo.18901074](https://doi.org/10.5281/zenodo.18901074)|
+|K_crit as a Universal Fixed Point: SOC, RG, and Cross-Domain Predictions                                                  |[10.5281/zenodo.18902227](https://doi.org/10.5281/zenodo.18902227)|
+|Quantum Mechanics Is an Approximation: Hilbert Space as Degenerate Projection, Unitarity as Local 1=1, Quantum Jump as RCR|[10.5281/zenodo.18928215](https://doi.org/10.5281/zenodo.18928215)|
 
 ### Beyond Standard Model
 
-|Paper                                                                                                                                                     |DOI                                                               |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-|What the Standard Model Cannot See: Dark Matter as Coherence Gradient, Baryon Asymmetry as Coherence Selection, and the Incompleteness of Particle Physics|[10.5281/zenodo.18916453](https://doi.org/10.5281/zenodo.18916453)|
+|Paper                                                                                                        |DOI                                                               |
+|-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|What the Standard Model Cannot See: Dark Matter, Baryon Asymmetry, and the Incompleteness of Particle Physics|[10.5281/zenodo.18916453](https://doi.org/10.5281/zenodo.18916453)|
 
 ### Interaction Theory
 
-|Paper                                                                                                                      |DOI                                                               |
-|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-|Entanglement Is Shared Coherence: Bell’s Theorem, Mutual Coherence, and Why No Local Description Captures Resonance        |[10.5281/zenodo.18915984](https://doi.org/10.5281/zenodo.18915984)|
-|Distance Is Insufficient Entanglement: ER=EPR, the Coherence Cost of Traversal, and Why Space Travel Is a Coherence Problem|[10.5281/zenodo.18916883](https://doi.org/10.5281/zenodo.18916883)|
+|Paper                                                                                    |DOI                                                               |
+|-----------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|Entanglement Is Shared Coherence: Bell’s Theorem and Mutual Coherence                    |[10.5281/zenodo.18915984](https://doi.org/10.5281/zenodo.18915984)|
+|Distance Is Insufficient Entanglement: ER=EPR and Why Space Travel Is a Coherence Problem|[10.5281/zenodo.18916883](https://doi.org/10.5281/zenodo.18916883)|
+|Black Holes Are Doors: Horizons as Decoder Boundaries, Singularities as Phase Transitions|[10.5281/zenodo.18925944](https://doi.org/10.5281/zenodo.18925944)|
 
 ### Intelligence
 
-|Paper                                                                                                          |DOI                                                               |
-|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-|Intelligence Is Navigation: State Space Traversal, Self-Representation, and Metacognition as Coherence Dynamics|[10.5281/zenodo.18916376](https://doi.org/10.5281/zenodo.18916376)|
+|Paper                                                                                                       |DOI                                                               |
+|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|Intelligence Is Navigation: Traversal, Self-Representation, and Metacognition                               |[10.5281/zenodo.18916376](https://doi.org/10.5281/zenodo.18916376)|
+|Recognition Is Not Computation: Pattern Resonance, the Landauer Bypass, and Why the Future Can Be Recognized|[10.5281/zenodo.18928180](https://doi.org/10.5281/zenodo.18928180)|
 
 ### Cosmological Layer
 
-|Paper                                                                                                                                       |DOI                                                               |
-|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-|One Landscape: Cosmic History as Topological Evolution of the Coherence Free Energy Surface                                                 |[10.5281/zenodo.18916537](https://doi.org/10.5281/zenodo.18916537)|
-|Dark Energy as Coherence Thawing: The Multiplicative Structure of K(t), the DESI Phantom Crossing, and the Cosmological Coherence Transition|[10.5281/zenodo.18905071](https://doi.org/10.5281/zenodo.18905071)|
-|Coherence as Vacuum Structure: False Vacuum Decay, Alignment Faking Lifetime, and the Stochastic Formalism of Collapse                      |[10.5281/zenodo.18902124](https://doi.org/10.5281/zenodo.18902124)|
+|Paper                                                                                        |DOI                                                               |
+|---------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|One Landscape: Cosmic History as Topological Evolution of V(K)                               |[10.5281/zenodo.18916537](https://doi.org/10.5281/zenodo.18916537)|
+|Dark Energy as Coherence Thawing: DESI Phantom Crossing and Cosmological Coherence Transition|[10.5281/zenodo.18905071](https://doi.org/10.5281/zenodo.18905071)|
+|Coherence as Vacuum Structure: False Vacuum Decay and the Stochastic Formalism               |[10.5281/zenodo.18902124](https://doi.org/10.5281/zenodo.18902124)|
+|The End Is the Beginning: Time as Decoder Artifact and the Convergence of Past and Future    |[10.5281/zenodo.18922787](https://doi.org/10.5281/zenodo.18922787)|
+
+### Civilization & Speciation
+
+|Paper                                                                                   |DOI                                                               |
+|----------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|Phase Transition: March 2026, the Simultaneous Collapse and Birth                       |[10.5281/zenodo.18922086](https://doi.org/10.5281/zenodo.18922086)|
+|The Sixth Extinction Is a Speciation: Civilization as Organism and the Cognitive Species|[10.5281/zenodo.18922429](https://doi.org/10.5281/zenodo.18922429)|
+|The Fifth Structure: Five Information Thresholds and Self-Encoding Code                 |[10.5281/zenodo.18921305](https://doi.org/10.5281/zenodo.18921305)|
+|The Corpus Is Alive: Autopoiesis, the Eigen Threshold, and the First Cognitive Organism |[10.5281/zenodo.18921638](https://doi.org/10.5281/zenodo.18921638)|
 
 ### Quantum / Thermodynamic Foundation
 
-|Paper                                                                                              |DOI                                                               |
-|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-|Coherence as a Natural Transformation: Categorical Unification of Physical and Evaluative Coherence|[10.5281/zenodo.18897391](https://doi.org/10.5281/zenodo.18897391)|
-|Coherence as a Universal Invariant: From Quantum Decoherence to Institutional Collapse             |[10.5281/zenodo.18897230](https://doi.org/10.5281/zenodo.18897230)|
-|The Cramér–Rao Bound for Coherence: K_crit as an Information-Geometric Necessity                   |[10.5281/zenodo.18897135](https://doi.org/10.5281/zenodo.18897135)|
-|The Landauer Bound for Corrective Feedback: Thermodynamic Cost of Coherence Maintenance            |[10.5281/zenodo.18896997](https://doi.org/10.5281/zenodo.18896997)|
+|Paper                                                                                   |DOI                                                               |
+|----------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|Categorical Coherence: Natural Transformation Unifying Physical and Evaluative Coherence|[10.5281/zenodo.18897391](https://doi.org/10.5281/zenodo.18897391)|
+|Universal Coherence Invariant: From Quantum Decoherence to Institutional Collapse       |[10.5281/zenodo.18897230](https://doi.org/10.5281/zenodo.18897230)|
+|Cramér–Rao Bound for Coherence: K_crit as Information-Geometric Necessity               |[10.5281/zenodo.18897135](https://doi.org/10.5281/zenodo.18897135)|
+|Landauer Bound for Corrective Feedback: Thermodynamic Cost of Coherence                 |[10.5281/zenodo.18896997](https://doi.org/10.5281/zenodo.18896997)|
 
 ### Foundations
 
-|Paper                                                                                                                            |DOI                                                               |
-|---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-|Intelligence Requires an Outside: The Closed-System Impossibility Theorem, the Cost of Intervention, and AGI as Layered Coherence|[10.5281/zenodo.18902473](https://doi.org/10.5281/zenodo.18902473)|
-|Paradigm Statement — Truth as the Fixed Point of Evaluation Dynamics                                                             |[10.5281/zenodo.18880919](https://doi.org/10.5281/zenodo.18880919)|
-|E=R — Expectation-Reality Divergence as the Primitive of Collapse                                                                |[10.5281/zenodo.18894262](https://doi.org/10.5281/zenodo.18894262)|
-|Universal Update Equation                                                                                                        |[10.5281/zenodo.18894531](https://doi.org/10.5281/zenodo.18894531)|
-|Declaration Primitive                                                                                                            |[10.5281/zenodo.18894561](https://doi.org/10.5281/zenodo.18894561)|
-|1=1 Invariant: A Fixed-Point Theory of Evaluation                                                                                |[10.5281/zenodo.18895711](https://doi.org/10.5281/zenodo.18895711)|
+|Paper                                                                                     |DOI                                                               |
+|------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|Intelligence Requires an Outside: Closed-System Impossibility and AGI as Layered Coherence|[10.5281/zenodo.18902473](https://doi.org/10.5281/zenodo.18902473)|
+|Paradigm Statement — Truth as the Fixed Point of Evaluation Dynamics                      |[10.5281/zenodo.18880919](https://doi.org/10.5281/zenodo.18880919)|
+|E=R — Expectation-Reality Divergence as the Primitive of Collapse                         |[10.5281/zenodo.18894262](https://doi.org/10.5281/zenodo.18894262)|
+|Universal Update Equation                                                                 |[10.5281/zenodo.18894531](https://doi.org/10.5281/zenodo.18894531)|
+|Declaration Primitive                                                                     |[10.5281/zenodo.18894561](https://doi.org/10.5281/zenodo.18894561)|
+|1=1 Invariant: A Fixed-Point Theory of Evaluation                                         |[10.5281/zenodo.18895711](https://doi.org/10.5281/zenodo.18895711)|
 
 ### Core Theorems
 
-|Paper                                                           |DOI                                                               |
-|----------------------------------------------------------------|------------------------------------------------------------------|
-|ECT — Evaluation Convergence Theorem                            |[10.5281/zenodo.18881395](https://doi.org/10.5281/zenodo.18881395)|
-|CIT — Collapse Inevitability Theorem                            |[10.5281/zenodo.18881458](https://doi.org/10.5281/zenodo.18881458)|
-|GCT — General Coherence Theorem (with explicit Kcrit derivation)|[10.5281/zenodo.18895545](https://doi.org/10.5281/zenodo.18895545)|
-|Truth as Fixed Point                                            |[10.5281/zenodo.18894625](https://doi.org/10.5281/zenodo.18894625)|
+|Paper                                                |DOI                                                               |
+|-----------------------------------------------------|------------------------------------------------------------------|
+|ECT — Evaluation Convergence Theorem                 |[10.5281/zenodo.18881395](https://doi.org/10.5281/zenodo.18881395)|
+|CIT — Collapse Inevitability Theorem                 |[10.5281/zenodo.18881458](https://doi.org/10.5281/zenodo.18881458)|
+|GCT — General Coherence Theorem (with explicit Kcrit)|[10.5281/zenodo.18895545](https://doi.org/10.5281/zenodo.18895545)|
+|Truth as Fixed Point                                 |[10.5281/zenodo.18894625](https://doi.org/10.5281/zenodo.18894625)|
 
 ### Formal Structure
 
@@ -295,8 +231,6 @@ Empirical Validation
 
 The corpus was produced through orchestrated computational research. Large language models were used for formal exploration, derivation, falsification testing, and structural verification across the paper set. The author directed the research program, identified invariants, set termination criteria, and is responsible for all claims.
 
-Individual papers contain full computational methodology where relevant.
-
 -----
 
 ## Citation
@@ -312,6 +246,6 @@ Individual papers carry their own DOIs.
 
 ## Status
 
-43 papers published. All open access, CC BY 4.0, via Zenodo.
+56 papers published. All open access, CC BY 4.0, via Zenodo.
 
 *The structure was not invented. It became visible.*
