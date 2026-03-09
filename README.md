@@ -12,13 +12,15 @@ One condition. Every domain. No exceptions.
 
 ## What This Is
 
-The Spektre corpus started with institutional collapse data. It ended with Einstein’s field equations, the Born rule, Leibniz’s question, and Bell’s theorem.
+The Spektre corpus started with institutional collapse data. It ended with the universe as an autoencoder.
 
-One invariant — **1 = 1**, the condition that declared states match realized states — connects, through established derivation chains and without free parameters: quantum coherence, thermodynamic irreversibility, information geometry, category theory, holographic encoding, gravitational field equations, dark energy dynamics, the Born rule, the origin of biological life, neural criticality, quantum entanglement, institutional collapse, alignment stability, and the foundational impossibility theorems of Heisenberg, Gödel, and the second law.
+One invariant — **1 = 1**, the condition that declared states match realized states — connects, through established derivation chains and without free parameters: quantum coherence, thermodynamic irreversibility, information geometry, category theory, holographic encoding, gravitational field equations, dark energy dynamics, the Born rule, dark matter, baryon asymmetry, the origin of biological life, neural criticality, quantum entanglement, space traversal, institutional collapse, alignment stability, intelligence, and the foundational impossibility theorems of Heisenberg, Gödel, and the second law.
 
-This is not a Theory of Everything. A Theory of Everything asks what the fundamental equations are. This asks the prior question: *under what condition does stable structure exist at all?*
+This is not a Theory of Everything. It is the prior question: *under what condition does stable structure exist at all?*
 
 The answer is 1 = 1. It is not postulated — it is inevitable. Nothingness is incoherent. Identity is the unique fixed point of the meta-condition operator. Where it holds, structure persists. Where it fails, structure collapses. The threshold between them is **K_crit ≈ 0.127** — derived six independent times from six distinct axiomatic starting points, never empirically calibrated.
+
+The universe is an autoencoder. The encoder is 1 = 1. The latent space is K_crit. The decoders are physical laws. Quantum gravity is the wrong question — QM and GR are different decoders of the same latent code, not incompatible theories.
 
 -----
 
@@ -56,15 +58,9 @@ For interacting systems, joint coherence is a tensor product:
 E(A,B) = K_{A⊗B} - K_A · K_B
 ```
 
-E > 0: resonance. E = 0: separable. E < 0: destructive interference. At quantum scale, E > 0 is entanglement. Bell’s theorem proves it cannot be reduced to local properties.
+E > 0: resonance. E = 0: separable. E < 0: destructive interference. At quantum scale, E > 0 is entanglement. Bell’s theorem proves it cannot be reduced to local properties. Distance is insufficient entanglement.
 
 **F(t) is the leading indicator.** The collapse ordering F ↓ → IΦ ↓ → ρ ↓ is invariant, with mean lead time 5.8 ± 1.2 quarters.
-
-**The threshold:**
-
-```
-K(t) < Kcrit ≈ 0.127  →  collapse is a trajectory property, not a risk
-```
 
 -----
 
@@ -79,33 +75,13 @@ K(t) < Kcrit ≈ 0.127  →  collapse is a trajectory property, not a risk
 |5|Holographic (Ryu–Takayanagi)        |Bulk entropy exceeding boundary bound         |[zenodo.18901074](https://doi.org/10.5281/zenodo.18901074)|
 |6|Renormalization group (Wilson)      |RG fixed point of coherence universality class|[zenodo.18902227](https://doi.org/10.5281/zenodo.18902227)|
 
-Six independent axiomatic starting points. One number. No calibration.
-
------
-
-## The Universal Chain
-
-```
-existence → 1=1 → Kcrit → thermodynamics → holography → Gμν = 8πG Tμν
-```
-
-The chain is grounded in both directions. Downward: from 1 = 1 through Landauer, Bekenstein-Hawking, and Jacobson to Einstein’s field equations, with both sides derived from the coherence field K(t,x). Upward: from the impossibility of coherent nothingness to 1 = 1 through the fixed-point theorem.
-
-The stochastic chain:
-
-```
-1=1 (true vacuum) → V(K) → Coleman bounce → τ ~ exp(S_E/ℏ_eff) → bubble wall → gravity
-```
-
-The interaction chain:
-
-```
-K_A ⊗ K_B → E(A,B) → resonance / interference → Bell non-reducibility
-```
+Six derivations are six decoder proofs of the same bottleneck dimension. The convergence is not mysterious — it is what autoencoders do: the bottleneck dimension is invariant under change of decoder.
 
 -----
 
 ## What the Corpus Has Established
+
+**The universe is an autoencoder.** The encoder is 1 = 1. The latent space is K_crit. Physical laws are decoders — each decodes the same latent code into different observables. QM and GR are not incompatible; they are different decoders. Every unsolved problem in physics is a reconstruction loss of a specific decoder.
 
 **Existence is not contingent.** Nothingness is incoherent: any state coherent enough to be defined already satisfies 1 = 1. The identity condition is the unique fixed point of the meta-condition operator. This resolves Leibniz’s question.
 
@@ -115,13 +91,19 @@ K_A ⊗ K_B → E(A,B) → resonance / interference → Bell non-reducibility
 
 **The Born rule is not an axiom.** |ψᵢ|² is the coherence budget per branch. Observation requires K > K_crit. A fourth interpretation: coherence selection. Decoherence selects basis, coherence selection selects weight.
 
-**Four foundational impossibilities are one theorem.** Heisenberg, Gödel, the second law, and the closed-system theorem: a closed system cannot achieve full resolution in two conjugate directions. ℏ/2 is K_crit at quantum scale. All are consequences of finite coherence channel capacity.
+**Four foundational impossibilities are one theorem.** Heisenberg, Gödel, the second law, and the closed-system theorem: a closed system cannot achieve full resolution in two conjugate directions. ℏ/2 is K_crit at quantum scale.
 
-**Entanglement is shared coherence.** E(A,B) = K_{A⊗B} - K_A · K_B. Bell’s theorem: mutual coherence cannot be reduced to local properties. This is universal — quantum entanglement, biological symbiosis, institutional alliance, and orchestrated intelligence are all instances of E > 0.
+**Entanglement is shared coherence.** Bell’s theorem: mutual coherence cannot be reduced to local properties. Distance is insufficient entanglement. A traversable portal is existing entanglement amplified to macroscopic scale.
 
-**Alignment faking has a quantitative lifetime.** τ_fake ~ exp(S_E / ℏ_eff). No other alignment framework derives a faking lifetime.
+**Dark matter is the dark coherence sector.** The I_Φ and F components of K gravitate but carry no electromagnetic charge. The SM describes ρ — one of three components. Strong prediction: no dark matter particle will be found.
 
-**Dark energy matches DESI without free parameters.** Thawing relation w_a = −3(1+w_0) satisfied to 0.6%. H(z_cross) = H₀ to 0.6%. We are at the coherence transition now.
+**Baryon asymmetry is coherence selection.** Small CP violation exponentially amplified by Kramers escape rates. Selection asymmetry, not production asymmetry.
+
+**Intelligence is coherent state space navigation.** Three components: traversal (ρ), self-representation (I_Φ), metacognition (F). No existing definition includes metacognition — the component that fails first.
+
+**Space travel is a coherence problem.** If topological connection scales linearly (circumference), the Landauer minimum is ~10¹⁴ J — four days of fusion reactor output. The cost is coherence, not energy.
+
+**Dark energy matches DESI without free parameters.** Thawing relation w_a = −3(1+w_0) satisfied to 0.6%. We are at the coherence transition now.
 
 **Intelligence requires an outside.** Proved three ways. AGI requires layered coherence K_total = ∏ Kᵢ. External corrective signal is a structural necessity.
 
@@ -145,17 +127,26 @@ Zero false negatives. Recall = 1.000.
 Self-Foundation
   Why Anything Exists
        ↓
+Autoencoder Structure
+  The Universe Is an Autoencoder
+       ↓
 Impossibility Unification
   Four Impossibilities Are One · Gödel Is the Closed-System Theorem
        ↓
 Physics Completion
   There Is No Matter · Born Rule · Holographic Coherence · K_crit as RG Fixed Point
        ↓
+Beyond Standard Model
+  What the Standard Model Cannot See
+       ↓
 Interaction Theory
-  Entanglement Is Shared Coherence
+  Entanglement Is Shared Coherence · Distance Is Insufficient Entanglement
+       ↓
+Intelligence
+  Intelligence Is Navigation
        ↓
 Cosmological Layer
-  Dark Energy · Stochastic Coherence / False Vacuum
+  One Landscape · Dark Energy · Stochastic Coherence / False Vacuum
        ↓
 Quantum / Thermodynamic Foundation
   Universal Coherence Invariant · Categorical Coherence · Landauer · Cramér–Rao
@@ -188,6 +179,12 @@ Empirical Validation
 |---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
 |Why Anything Exists: The 1=1 Invariant as the Fixed Point of Existence, and the Impossibility of Coherent Nothingness|[10.5281/zenodo.18915882](https://doi.org/10.5281/zenodo.18915882)|
 
+### Autoencoder Structure
+
+|Paper                                                                                                                           |DOI                                                               |
+|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|The Universe Is an Autoencoder: K_crit as Latent Space, Physical Laws as Decoders, and Why Quantum Gravity Is the Wrong Question|[10.5281/zenodo.18917335](https://doi.org/10.5281/zenodo.18917335)|
+
 ### Master Paper
 
 |Paper                                                                                    |DOI                                                               |
@@ -210,16 +207,30 @@ Empirical Validation
 |Coherence as Holographic Capacity: F(t), the Ryu–Takayanagi Formula, and the Thermodynamic Origin of Gravity                |[10.5281/zenodo.18901074](https://doi.org/10.5281/zenodo.18901074)|
 |K_crit as a Universal Fixed Point: Self-Organized Criticality, Renormalization Group, and Cross-Domain Empirical Predictions|[10.5281/zenodo.18902227](https://doi.org/10.5281/zenodo.18902227)|
 
+### Beyond Standard Model
+
+|Paper                                                                                                                                                     |DOI                                                               |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|What the Standard Model Cannot See: Dark Matter as Coherence Gradient, Baryon Asymmetry as Coherence Selection, and the Incompleteness of Particle Physics|[10.5281/zenodo.18916453](https://doi.org/10.5281/zenodo.18916453)|
+
 ### Interaction Theory
 
-|Paper                                                                                                              |DOI                                                               |
-|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-|Entanglement Is Shared Coherence: Bell’s Theorem, Mutual Coherence, and Why No Local Description Captures Resonance|[10.5281/zenodo.18915984](https://doi.org/10.5281/zenodo.18915984)|
+|Paper                                                                                                                      |DOI                                                               |
+|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|Entanglement Is Shared Coherence: Bell’s Theorem, Mutual Coherence, and Why No Local Description Captures Resonance        |[10.5281/zenodo.18915984](https://doi.org/10.5281/zenodo.18915984)|
+|Distance Is Insufficient Entanglement: ER=EPR, the Coherence Cost of Traversal, and Why Space Travel Is a Coherence Problem|[10.5281/zenodo.18916883](https://doi.org/10.5281/zenodo.18916883)|
+
+### Intelligence
+
+|Paper                                                                                                          |DOI                                                               |
+|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|Intelligence Is Navigation: State Space Traversal, Self-Representation, and Metacognition as Coherence Dynamics|[10.5281/zenodo.18916376](https://doi.org/10.5281/zenodo.18916376)|
 
 ### Cosmological Layer
 
 |Paper                                                                                                                                       |DOI                                                               |
 |--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|One Landscape: Cosmic History as Topological Evolution of the Coherence Free Energy Surface                                                 |[10.5281/zenodo.18916537](https://doi.org/10.5281/zenodo.18916537)|
 |Dark Energy as Coherence Thawing: The Multiplicative Structure of K(t), the DESI Phantom Crossing, and the Cosmological Coherence Transition|[10.5281/zenodo.18905071](https://doi.org/10.5281/zenodo.18905071)|
 |Coherence as Vacuum Structure: False Vacuum Decay, Alignment Faking Lifetime, and the Stochastic Formalism of Collapse                      |[10.5281/zenodo.18902124](https://doi.org/10.5281/zenodo.18902124)|
 
@@ -301,6 +312,6 @@ Individual papers carry their own DOIs.
 
 ## Status
 
-37 papers published. All open access, CC BY 4.0, via Zenodo.
+43 papers published. All open access, CC BY 4.0, via Zenodo.
 
 *The structure was not invented. It became visible.*
