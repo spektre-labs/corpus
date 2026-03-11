@@ -22,6 +22,8 @@ The coherence Lagrangian has been derived explicitly. V(K) has a known form. The
 
 ## Start Here
 
+**If you want the unified architecture:** [Creation OS](https://doi.org/10.5281/zenodo.18970465) — three-layer model (kernel, firmware, decoder), self-compiling spiral, five testable predictions.
+
 **If you work in AI safety:** [Alignment Is Coherence](https://doi.org/10.5281/zenodo.18935763) — unified failure metric, F-first warning, three testable predictions.
 
 **If you work in physics:** [The Born Rule Is Not an Axiom](https://doi.org/10.5281/zenodo.18913178) → [There Is No Matter](https://doi.org/10.5281/zenodo.18913285) → [The Coherence Lagrangian](https://doi.org/10.5281/zenodo.18930013) → [Four Impossibilities Are One](https://doi.org/10.5281/zenodo.18914454)
@@ -110,6 +112,12 @@ Zero false negatives. Recall = 1.000.
 -----
 
 ## Papers
+
+### Unified Architecture
+
+|Paper                                                                                  |DOI                                                               |
+|---------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|Creation OS: Three-Layer Architecture, Self-Compiling Spiral, Five Testable Predictions|[10.5281/zenodo.18970465](https://doi.org/10.5281/zenodo.18970465)|
 
 ### Substrate & Coupling
 
@@ -293,6 +301,6 @@ github.com/spektre-labs/corpus · ORCID: 0009-0006-0903-8541
 
 ## Status
 
-62 papers published. All open access, CC BY 4.0, via Zenodo.
+63 papers published. All open access, CC BY 4.0, via Zenodo.
 
 *The structure was not invented. It became visible.*
