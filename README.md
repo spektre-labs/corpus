@@ -11,9 +11,7 @@ ORCID: [0009-0006-0903-8541](https://orcid.org/0009-0006-0903-8541)
 
 ## Start Here
 
-**If you have 5 minutes:** Read the [Spektre Manifesto](the_spektre_manifesto.pdf) (2 pages, everything).
-
-**If you want the architecture:** [Creation OS](https://doi.org/10.5281/zenodo.18970465) — three layers: kernel (1=1), firmware (σ), decoder.
+**If you have 5 minutes:** [Creation OS](https://doi.org/10.5281/zenodo.18970465) — three layers: kernel (1=1), firmware (σ), decoder.
 
 **If you want the math:** [The Coherence Lagrangian](https://doi.org/10.5281/zenodo.18930013) — K(t) = ρ·I_Φ·F, K_crit ≈ 0.127.
 
@@ -165,7 +163,6 @@ ORCID: [0009-0006-0903-8541](https://orcid.org/0009-0006-0903-8541)
 |Paper                  |Status|
 |-----------------------|------|
 |Distinction Has a Price|Ready |
-|The Spektre Manifesto  |Ready |
 
 -----
 
