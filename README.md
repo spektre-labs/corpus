@@ -183,9 +183,7 @@ ORCID: [0009-0006-0903-8541](https://orcid.org/0009-0006-0903-8541)
 
 ## Methodology
 
-The Spektre corpus is produced through orchestrated computational research. Multiple large language models (Claude, GPT, DeepSeek, Gemini, Grok, Perplexity) are used as resonators for formal exploration, derivation, falsification testing, cross-validation, and structural verification. The author directs the research program, makes all structural and interpretive decisions, and is solely responsible for all claims.
-
-No institutional affiliation. No funding. No collaborators beyond the LLMs. One iPhone. One month. 68 papers.
+Multi-agent computational orchestration. Parallel verification across independent architectures. All structural and interpretive decisions by the author.
 
 -----
 
