@@ -275,7 +275,7 @@ Large-scale computational orchestration across multiple independent AI architect
 
 spektrelabs.org
 
-spektrelabs@proton.me
+spektre.labs@proton.me
 
 -----
 
