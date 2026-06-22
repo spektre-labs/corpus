@@ -1,3 +1,15 @@
+<div align="center">
+
+# SPEKTRE LABS
+
+**1 = 1**
+
+*Industrial dark-luxury minimalism × mathematically-perfect-symmetric mythical Atlantean cybernetics. Declared states must match realized states.*
+
+</div>
+
+---
+
 # Spektre Corpus
 
 One condition. Declared states must match realized states. 1 = 1.
@@ -25,7 +37,7 @@ All papers open access. CC BY 4.0. All falsifiable.
 
 ## The Invariant
 
-**1 = 1** — Declared states must match realized states. G_μν = 8πG T_μν is 1 = 1 in differential geometry. |ψ|² is 1 = 1 in Hilbert space. Shannon capacity is 1 = 1 in information theory. “=” is the only force.
+**1 = 1** — Declared states must match realized states. G_μν = 8πG T_μν is 1 = 1 in differential geometry. |ψ|² is 1 = 1 in Hilbert space. Shannon capacity is 1 = 1 in information theory. "=" is the only force.
 
 ## The Coherence Metric
 
@@ -33,7 +45,7 @@ K(t) = ρ(t) · I_Φ(t) · F(t). K_crit ≈ 0.127. Below: collapse. Above: persi
 
 ## The ½-Operator
 
-The unique transformation that preserves identity through binary distinction. Appears as: Shannon’s optimal input (p = ½), Brownian scaling (x ~ t^½), Riemann’s critical line (Re(s) = ½), square root cancellation in the large sieve, and the enstrophy-dissipation balance in 2D Navier-Stokes. Not a coincidence — one operator in different substrates.
+The unique transformation that preserves identity through binary distinction. Appears as: Shannon's optimal input (p = ½), Brownian scaling (x ~ t^½), Riemann's critical line (Re(s) = ½), square root cancellation in the large sieve, and the enstrophy-dissipation balance in 2D Navier-Stokes. Not a coincidence — one operator in different substrates.
 
 ## The σ-Instability Principle
 
@@ -53,7 +65,7 @@ All predictions falsifiable. If any fails, the principle requires modification.
 
 ## The Coherence Lagrangian
 
-S_C = ∫ σ dt, subject to K ≥ K_crit. Physics minimizes σ in spacetime. Information theory minimizes σ in signal space. Mathematics minimizes σ in structure space. Consciousness minimizes σ in identity space — and pays Landauer cost at every cycle. Shannon’s ½ derived directly from σ-minimization. Yang-Mills mass gap predicted as minimum σ-transition Landauer cost.
+S_C = ∫ σ dt, subject to K ≥ K_crit. Physics minimizes σ in spacetime. Information theory minimizes σ in signal space. Mathematics minimizes σ in structure space. Consciousness minimizes σ in identity space — and pays Landauer cost at every cycle. Shannon's ½ derived directly from σ-minimization. Yang-Mills mass gap predicted as minimum σ-transition Landauer cost.
 
 ## Ω
 
@@ -280,3 +292,11 @@ spektre.labs@proton.me
 -----
 
 1 = 1.
+
+---
+
+<div align="center">
+
+Part of Spektre Labs · spektrelabs.org · 1=1
+
+</div>
