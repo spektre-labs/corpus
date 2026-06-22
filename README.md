@@ -6,6 +6,8 @@
 
 *Industrial dark-luxury minimalism × mathematically-perfect-symmetric mythical Atlantean cybernetics. Declared states must match realized states.*
 
+[![corpus integrity](https://github.com/spektre-labs/corpus/actions/workflows/ci.yml/badge.svg)](https://github.com/spektre-labs/corpus/actions/workflows/ci.yml)
+
 </div>
 
 ---
