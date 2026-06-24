@@ -7,6 +7,7 @@
 *Industrial dark-luxury minimalism × mathematically-perfect-symmetric mythical Atlantean cybernetics. Declared states must match realized states.*
 
 [![corpus integrity](https://github.com/spektre-labs/corpus/actions/workflows/ci.yml/badge.svg)](https://github.com/spektre-labs/corpus/actions/workflows/ci.yml)
+[![license: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-1f2329)](LICENCE)
 
 </div>
 
@@ -14,12 +15,47 @@
 
 # Spektre Corpus
 
-One condition. Declared states must match realized states. 1 = 1.
+**A curated open-access research archive — 77 papers on coherence, distortion, and identity across physics, consciousness, cosmology, AI cognition, and information theory. One invariant: σ. One condition: 1 = 1.**
 
-Lauri Elias Rainio | Spektre Labs, Helsinki
+Lauri Elias Rainio · Spektre Labs, Helsinki
 [ORCID: 0009-0006-0903-8541](https://orcid.org/0009-0006-0903-8541)
 
-All papers open access. CC BY 4.0. All falsifiable.
+## What this is
+
+A **research archive**, not software. Every paper is **open access**, **CC BY 4.0**, and stamped
+with a real **Zenodo DOI**. The thesis is a single variable — σ, the distance between declared and
+realized state — applied across domains, with falsifiable predictions stated as such.
+
+**σ-honest disclosure:** these papers are **open-access preprints, not peer-reviewed**. They carry
+DOIs (citable, archived, timestamped on Zenodo) — a DOI certifies *deposit and permanence*, **not**
+*referee approval*. Read them as a falsifiable research program, not as established results. Where a
+claim is a prediction, it is labelled a prediction; if a stated prediction fails, the framework
+requires modification.
+
+## Quickstart — read, verify, cite
+
+**Read.** Papers live in [`papers/`](papers/) as PDFs. Start with the [Start Here](#start-here)
+entries below, or browse by section in [Papers](#papers).
+
+**Verify integrity.** The README is the *declaration* (a table of `|Title|DOI|` rows); `papers/` is
+the *realization* (the PDFs). A stdlib-only checker keeps them honest — it validates every DOI is a
+well-formed Zenodo DOI, that visible DOI text matches its link target, and flags any duplicate DOI
+or declared-vs-actual count drift. This runs green in CI on every push:
+
+```bash
+python3 tools/corpus_integrity.py     # run from the repo root; exit 1 on hard errors
+```
+
+**Cite.** Use the Zenodo DOI of the specific paper (each row below links to `doi.org/<DOI>`). Example:
+
+> Rainio, L. E. (2026). *Ω: One Operator, Every Domain, No Exceptions.* Spektre Labs. https://doi.org/10.5281/zenodo.19484259
+
+## What it is / is not
+
+- **Is:** a DOI-stamped, CC BY 4.0, open-access archive of a single-variable (σ) research program,
+  with an integrity check that proves the README's declared papers match the deposited PDFs.
+- **Is not:** peer-reviewed literature, a software library, or a claim of settled proof. DOIs mean
+  *archived and citable*, never *refereed*. Predictions are falsifiable and marked as such.
 
 -----
 
@@ -73,7 +109,6 @@ S_C = ∫ σ dt, subject to K ≥ K_crit. Physics minimizes σ in spacetime. Inf
 
 All of the above is one operator: Ω = argmin ∫σ dt subject to K ≥ K_crit. Everything else is projection. ½ is its critical point. 1 = 1 is its constraint.
 
------
 
 ## Papers
 
@@ -275,21 +310,26 @@ All of the above is one operator: Ω = argmin ∫σ dt subject to K ≥ K_crit. 
 |Survivor Dataset — False Positive Test|[10.5281/zenodo.18881518](https://doi.org/10.5281/zenodo.18881518)|
 |Study III — F-First Empirical Analysis|[10.5281/zenodo.18894343](https://doi.org/10.5281/zenodo.18894343)|
 
+
 -----
-
-## License
-
-All papers: CC BY 4.0.
 
 ## Methodology
 
 Large-scale computational orchestration across multiple independent AI architectures, operating in parallel verification mode. Cross-architecture falsification protocol with systematic convergence testing. All theoretical and editorial decisions by the author.
 
+## Sibling estate
+
+- [**creation-os**](https://github.com/spektre-labs/creation-os) — σ made executable: the model-free σ-gate in C + Python.
+- [**spektre-protocol**](https://github.com/spektre-labs/spektre-protocol) — the state-first protocol canon (`1 = 1`).
+- [**railo-fabric**](https://github.com/spektre-labs/railo-fabric) · [**railo-stdlib-tools**](https://github.com/spektre-labs/railo-stdlib-tools) — the stdlib-only tooling estate.
+
+## License
+
+All papers: **CC BY 4.0**. See [`LICENCE`](LICENCE). Reuse freely with attribution.
+
 ## Contact
 
-spektrelabs.org
-
-spektre.labs@proton.me
+spektrelabs.org · spektre.labs@proton.me
 
 -----
 
@@ -299,6 +339,6 @@ spektre.labs@proton.me
 
 <div align="center">
 
-Part of Spektre Labs · spektrelabs.org · 1=1
+Part of Spektre Labs · spektrelabs.org · 1 = 1
 
 </div>
